@@ -1,12 +1,12 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Club Case Study
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Recommendations](#recommendations)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@niteshk727/@dipaksah20] - feel free to contact me!
 
 
 <!-- Optional -->
