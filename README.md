@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [General Information](#general-information)
+* [Data Used](#data-used)
 * [Technologies Used](#technologies-used)
 * [Libraries used for Analysis](#libraries-used-for-analysis)
 * [Types of Analysis Done](#types-of-analysis-done)
@@ -17,6 +18,11 @@
     - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
     - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 - The dataset is for the period of 2007-2011.
+
+## Data Used
+Please check the files in the project.
+- loan.csv :- dataset used for analysis.
+- Data_Dictionary.xlsx :- dictionary to understand meaning of each metrics recorded in the dataset.
 
 ## Technologies Used
 - Python - version 3.11.5
