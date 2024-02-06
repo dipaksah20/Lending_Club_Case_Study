@@ -3,49 +3,46 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
+* [Data Used](#data-used)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Recommendations](#recommendations)
-
-<!-- You can include any other section that is pertinent to your problem -->
+* [Libraries used for Analysis](#libraries-used-for-analysis)
+* [Types of Analysis Done](#types-of-analysis-done)
+* [Contributors](#contributors)
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The Lending Club is the largest market place for personal, home and different sorts of loans in a considerable lower interest rate.
+- This project demonstrates the risk analysis through different driving metrics for applicants for a Lending Club through EDA Techniques.
+- The analysis will work as a risk assessment for applicants applying for loan.
+- Lending Club will use this to prevent financial loss or business loss.
+    - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
+    - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+- The dataset is for the period of 2007-2011.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+## Data Used
+Please check the files in the project.
+- loan.csv :- dataset used for analysis.
+- Data_Dictionary.xlsx :- dictionary to understand meaning of each metrics recorded in the dataset.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.11.5
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+## Libraries Used for Analysis
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+## Types of Analysis Done
+- Univariate
+- Segmented Univariate
+- Bivariate
+- Derived Metrics
+- Multivariate
 
+## Contributors
+Created by [@niteshk727/@dipaksah20] - feel free to contact us!
 
-## Contact
-Created by [@niteshk727/@dipaksah20] - feel free to contact me!
-
-
-<!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
 
